@@ -7,7 +7,7 @@ Professor Farnsworth has been working on designing his new crazy invention, the 
 
 Help the Professor work out the simulation so he can start smelling the universe.
 
-# Input Format
+### Input Format
 
 The first line of the input is n, the degree of the two following polynomials.
 
@@ -15,7 +15,7 @@ The second line of the input consists of n+1 space separated integers a0,...,an,
 
 The third line consists of b0,...,bn, similar to above.
 
-# Constraints
+### Constraints
 n+1=2^k, 2<=k<=16
 
 Output Format
